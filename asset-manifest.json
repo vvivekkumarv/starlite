@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starlite/static/css/main.8133da8a.chunk.css",
+    "main.js": "/starlite/static/js/main.4fb69bfe.chunk.js",
+    "main.js.map": "/starlite/static/js/main.4fb69bfe.chunk.js.map",
+    "runtime-main.js": "/starlite/static/js/runtime-main.ae1d63d4.js",
+    "runtime-main.js.map": "/starlite/static/js/runtime-main.ae1d63d4.js.map",
+    "static/js/2.139051d0.chunk.js": "/starlite/static/js/2.139051d0.chunk.js",
+    "static/js/2.139051d0.chunk.js.map": "/starlite/static/js/2.139051d0.chunk.js.map",
+    "index.html": "/starlite/index.html",
+    "static/css/main.8133da8a.chunk.css.map": "/starlite/static/css/main.8133da8a.chunk.css.map",
+    "static/js/2.139051d0.chunk.js.LICENSE.txt": "/starlite/static/js/2.139051d0.chunk.js.LICENSE.txt",
+    "static/media/LineIcons.css": "/starlite/static/media/LineIcons.fb16b8b0.ttf",
+    "static/media/style.css.7bb034be.map": "/starlite/static/media/style.css.7bb034be.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1d63d4.js",
+    "static/js/2.139051d0.chunk.js",
+    "static/css/main.8133da8a.chunk.css",
+    "static/js/main.4fb69bfe.chunk.js"
+  ]
+}
